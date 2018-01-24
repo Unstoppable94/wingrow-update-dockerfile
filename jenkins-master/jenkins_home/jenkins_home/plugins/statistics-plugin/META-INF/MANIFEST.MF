@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Administrator
+Build-Jdk: 1.8.0_121
+Extension-Name: statistics-plugin
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: statistics-plugin
+Implementation-Version: 0.0.1-SNAPSHOT
+Group-Id: com.wingarden.cicd.jenkins.plugins
+Short-Name: statistics-plugin
+Long-Name: statistics-plugin
+Plugin-Version: 0.0.1-SNAPSHOT (private-14f5bce7-Administrator)
+Hudson-Version: 2.60.3
+Jenkins-Version: 2.60.3
+Plugin-Developers: Cai Wan Li:cavin:caiwl@winhong.com
+
